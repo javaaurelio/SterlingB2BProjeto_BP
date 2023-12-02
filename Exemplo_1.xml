@@ -1,0 +1,6 @@
+<process name = "Exemplo_1"> 
+  <sequence name="Inicio">
+    <assign to="NOME_VARIAVEL" from="string(&apos;MEU&apos;)"></assign>
+    <assign name="Assign" to="NOME_VARIAVEL" from="string(&apos;NOME&apos;)" append="false"></assign>
+  </sequence>
+</process>
